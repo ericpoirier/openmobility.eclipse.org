@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on The OpenMobility working group will drive the evolution and broad adoption of mobility modelling and simulation technologies.</title>
+    <link>https://openmobility.eclipse.org/</link>
+    <description>Recent content in Home on The OpenMobility working group will drive the evolution and broad adoption of mobility modelling and simulation technologies.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>chris.guindon@eclipse-foundation.org (Christopher Guindon)</managingEditor>
+    <webMaster>chris.guindon@eclipse-foundation.org (Christopher Guindon)</webMaster>
+    <lastBuildDate>Thu, 14 Mar 2019 15:50:25 -0400</lastBuildDate>
+    
+	<atom:link href="https://openmobility.eclipse.org/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>OpenMobility Working Group</title>
+      <link>https://openmobility.eclipse.org/news/announcements/2019/03/14/openmobility-working-group/</link>
+      <pubDate>Thu, 14 Mar 2019 05:10:00 +0000</pubDate>
+      <author>chris.guindon@eclipse-foundation.org (Christopher Guindon)</author>
+      <guid>https://openmobility.eclipse.org/news/announcements/2019/03/14/openmobility-working-group/</guid>
+      <description>&lt;p&gt;The OpenMobility working group will drive the evolution and broad adoption of mobility modelling and simulation technologies.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
