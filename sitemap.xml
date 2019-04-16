@@ -8,6 +8,11 @@
   </url>
   
   <url>
+    <loc>https://eclipsefdn.github.io/openmobility.eclipse.org/news/</loc>
+    <lastmod>2019-04-16T16:09:45+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://eclipsefdn.github.io/openmobility.eclipse.org/working-group/</loc>
     <lastmod>2019-04-16T16:09:45+02:00</lastmod>
   </url>
@@ -55,11 +60,6 @@
   <url>
     <loc>https://eclipsefdn.github.io/openmobility.eclipse.org/categories/announcements/</loc>
     <lastmod>2019-03-14T05:10:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://eclipsefdn.github.io/openmobility.eclipse.org/news/</loc>
     <priority>0</priority>
   </url>
   
