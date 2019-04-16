@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Vision on The openMobility working group will drive the evolution and broad adoption of mobility modelling and simulation technologies.</title>
+    <link>https://eclipsefdn.github.io/openmobility.eclipse.org/vision/</link>
+    <description>Recent content in Vision on The openMobility working group will drive the evolution and broad adoption of mobility modelling and simulation technologies.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>chris.guindon@eclipse-foundation.org (Christopher Guindon)</managingEditor>
+    <webMaster>chris.guindon@eclipse-foundation.org (Christopher Guindon)</webMaster>
+    <lastBuildDate>Tue, 16 Apr 2019 16:08:47 +0200</lastBuildDate>
+    
+	<atom:link href="https://eclipsefdn.github.io/openmobility.eclipse.org/vision/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>
