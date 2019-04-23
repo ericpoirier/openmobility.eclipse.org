@@ -12,5 +12,45 @@
 	<atom:link href="https://eclipsefdn.github.io/openmobility.eclipse.org/members/index.xml" rel="self" type="application/rss+xml" />
     
     
+    <item>
+      <title>Deutsches Zentrum für Luft- und Raumfahrt e.V. (DLR)</title>
+      <link>https://eclipsefdn.github.io/openmobility.eclipse.org/members/dlr/</link>
+      <pubDate>Mon, 22 Apr 2019 16:09:45 -0400</pubDate>
+      <author>chris.guindon@eclipse-foundation.org (Christopher Guindon)</author>
+      <guid>https://eclipsefdn.github.io/openmobility.eclipse.org/members/dlr/</guid>
+      <description>DLR is the national aeronautics and space research centre of the Federal Republic of Germany. Its extensive research and development work in aeronautics, space, energy, transport and security is integrated into national and international cooperative ventures. In addition to its own research, as Germanys space agency, DLR has been given responsibility by the federal government for the planning and implementation of the German space programme. DLR is also the umbrella organisation for the nations largest project management agency.</description>
+    </item>
+    
+    <item>
+      <title>Fraunhofer Institute for Open Communication Systems (FOKUS)</title>
+      <link>https://eclipsefdn.github.io/openmobility.eclipse.org/members/fraunhofer/</link>
+      <pubDate>Mon, 22 Apr 2019 16:09:45 -0400</pubDate>
+      <author>chris.guindon@eclipse-foundation.org (Christopher Guindon)</author>
+      <guid>https://eclipsefdn.github.io/openmobility.eclipse.org/members/fraunhofer/</guid>
+      <description>Fraunhofer FOKUS provides R&amp;amp;D services for the development of seamless personalizable communication systems at all stages of the innovation process from the original innovative idea and project-related R&amp;amp;D right through to testing, prototype development and implementation.
+As a proven partner for industry, Fraunhofer FOKUS defines all its R&amp;amp;D activities in line with market and user requirements.</description>
+    </item>
+    
+    <item>
+      <title>Robert Bosch GmbH</title>
+      <link>https://eclipsefdn.github.io/openmobility.eclipse.org/members/bosch/</link>
+      <pubDate>Mon, 22 Apr 2019 16:09:45 -0400</pubDate>
+      <author>chris.guindon@eclipse-foundation.org (Christopher Guindon)</author>
+      <guid>https://eclipsefdn.github.io/openmobility.eclipse.org/members/bosch/</guid>
+      <description>The Bosch Group is a leading global supplier of technology and services. It employs roughly 402,000 associates worldwide (as of December 31, 2017). The company generated sales of 78.1 billion euros in 2017.
+Its operations are divided into four business sectors: Mobility Solutions, Industrial Technology, Consumer Goods, and Energy and Building Technology.
+As a leading IoT company, Bosch offers innovative solutions for smart homes, smart cities, connected mobility, and connected manufacturing.</description>
+    </item>
+    
+    <item>
+      <title>Vector Informatik GmbH</title>
+      <link>https://eclipsefdn.github.io/openmobility.eclipse.org/members/vector/</link>
+      <pubDate>Mon, 22 Apr 2019 16:09:45 -0400</pubDate>
+      <author>chris.guindon@eclipse-foundation.org (Christopher Guindon)</author>
+      <guid>https://eclipsefdn.github.io/openmobility.eclipse.org/members/vector/</guid>
+      <description>Vector provides tools, software components and engineering services for the networking of electronic systems in the automobile and related industries.
+The ECU development is supported with tools for the design, test, calibration and diagnostics as well as with software components and development services.</description>
+    </item>
+    
   </channel>
 </rss>
