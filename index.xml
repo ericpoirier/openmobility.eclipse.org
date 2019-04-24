@@ -55,6 +55,15 @@ Links: Visit website</description>
     </item>
     
     <item>
+      <title>Eclipse SUMO</title>
+      <link>https://eclipsefdn.github.io/openmobility.eclipse.org/technologies/eclipse-sumo/</link>
+      <pubDate>Tue, 16 Apr 2019 16:09:21 +0200</pubDate>
+      <author>chris.guindon@eclipse-foundation.org (Christopher Guindon)</author>
+      <guid>https://eclipsefdn.github.io/openmobility.eclipse.org/technologies/eclipse-sumo/</guid>
+      <description>Eclipse Simulation of Urban Mobility (SUMO) is a free and open traffic simulation toolsuite. SUMO allows modelling and analyzing intermodal traffic systems, including road vehicles, public transport, cargo logistics and pedestrians. Included with SUMO is a wealth of supporting tools, which handle tasks like route finding, visualization, network import and emission calculation. SUMO can be enhanced with custom models and it provides various APIs to remotely control and influence the simulation.</description>
+    </item>
+    
+    <item>
       <title>OpenMobility Working Group</title>
       <link>https://eclipsefdn.github.io/openmobility.eclipse.org/news/announcements/2019/03/14/openmobility-working-group/</link>
       <pubDate>Thu, 14 Mar 2019 05:10:00 +0000</pubDate>
