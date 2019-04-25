@@ -63,6 +63,11 @@
   </url>
   
   <url>
+    <loc>https://eclipsefdn.github.io/openmobility.eclipse.org/news/community-news/2019/04/16/release-of-eclipse-sumo-version-1.2.0./</loc>
+    <lastmod>2019-04-16T05:10:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://eclipsefdn.github.io/openmobility.eclipse.org/members/</loc>
     <lastmod>2019-03-22T16:09:45-04:00</lastmod>
   </url>
@@ -88,13 +93,8 @@
   </url>
   
   <url>
-    <loc>https://eclipsefdn.github.io/openmobility.eclipse.org/news/announcements/2019/03/14/openmobility-working-group/</loc>
-    <lastmod>2019-03-14T05:10:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://eclipsefdn.github.io/openmobility.eclipse.org/categories/announcements/</loc>
-    <lastmod>2019-03-14T05:10:00+00:00</lastmod>
+    <loc>https://eclipsefdn.github.io/openmobility.eclipse.org/categories/community-news/</loc>
+    <lastmod>2019-04-16T05:10:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

@@ -64,12 +64,14 @@ Links: Visit website</description>
     </item>
     
     <item>
-      <title>OpenMobility Working Group</title>
-      <link>https://eclipsefdn.github.io/openmobility.eclipse.org/news/announcements/2019/03/14/openmobility-working-group/</link>
-      <pubDate>Thu, 14 Mar 2019 05:10:00 +0000</pubDate>
+      <title>Release of Eclipse SUMO version 1.2.0.</title>
+      <link>https://eclipsefdn.github.io/openmobility.eclipse.org/news/community-news/2019/04/16/release-of-eclipse-sumo-version-1.2.0./</link>
+      <pubDate>Tue, 16 Apr 2019 05:10:00 +0000</pubDate>
       <author>chris.guindon@eclipse-foundation.org (Christopher Guindon)</author>
-      <guid>https://eclipsefdn.github.io/openmobility.eclipse.org/news/announcements/2019/03/14/openmobility-working-group/</guid>
-      <description>&lt;p&gt;The OpenMobility working group will drive the evolution and broad adoption of mobility modelling and simulation technologies.&lt;/p&gt;</description>
+      <guid>https://eclipsefdn.github.io/openmobility.eclipse.org/news/community-news/2019/04/16/release-of-eclipse-sumo-version-1.2.0./</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://sumo.dlr.de/favicon.ico&#34; width=&#34;50px&#34; alt=&#34;SUMO logo&#34; style=&#34;pointer-events:none;&#34;&gt;&lt;/p&gt;
+
+&lt;p&gt;Click on this card to see the Changelog.&lt;/p&gt;</description>
     </item>
     
   </channel>
