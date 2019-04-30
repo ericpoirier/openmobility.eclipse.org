@@ -13,6 +13,11 @@
   </url>
   
   <url>
+    <loc>https://eclipsefdn.github.io/openmobility.eclipse.org/events/meeting1/</loc>
+    <lastmod>2019-05-13T05:10:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://eclipsefdn.github.io/openmobility.eclipse.org/members/dlr/</loc>
     <lastmod>2019-04-22T16:09:45-04:00</lastmod>
   </url>
@@ -115,13 +120,13 @@
   </url>
   
   <url>
-    <loc>https://eclipsefdn.github.io/openmobility.eclipse.org/categories/conferences/</loc>
+    <loc>https://eclipsefdn.github.io/openmobility.eclipse.org/categories/conference/</loc>
     <lastmod>2019-05-13T05:10:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://eclipsefdn.github.io/openmobility.eclipse.org/categories/events/</loc>
+    <loc>https://eclipsefdn.github.io/openmobility.eclipse.org/categories/event/</loc>
     <lastmod>2019-05-13T05:10:00+00:00</lastmod>
     <priority>0</priority>
   </url>

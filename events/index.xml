@@ -23,5 +23,14 @@
 &lt;p&gt;Traffic simulations are of immense importance for researchers as well as practitioners in the field of transportation. Eclipse SUMO provides a wide range of traffic planning and simulation applications.&lt;/p&gt;</description>
     </item>
     
+    <item>
+      <title>openMobility Working Group Meeting</title>
+      <link>https://eclipsefdn.github.io/openmobility.eclipse.org/events/meeting1/</link>
+      <pubDate>Mon, 13 May 2019 05:10:00 +0000</pubDate>
+      <author>chris.guindon@eclipse-foundation.org (Christopher Guindon)</author>
+      <guid>https://eclipsefdn.github.io/openmobility.eclipse.org/events/meeting1/</guid>
+      <description>&lt;p&gt;Meeting of the openMobility Working Group during the SUMO User Conference 2019.&lt;/p&gt;</description>
+    </item>
+    
   </channel>
 </rss>
