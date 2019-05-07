@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Technologies on The openMobility working group will drive the evolution and broad adoption of mobility modelling and simulation technologies.</title>
-    <link>https://eclipsefdn.github.io/openmobility.eclipse.org/technologies/</link>
+    <link>https://openmobility.eclipse.org/technologies/</link>
     <description>Recent content in Technologies on The openMobility working group will drive the evolution and broad adoption of mobility modelling and simulation technologies.</description>
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>chris.guindon@eclipse-foundation.org (Christopher Guindon)</managingEditor>
     <webMaster>chris.guindon@eclipse-foundation.org (Christopher Guindon)</webMaster>
     <lastBuildDate>Tue, 16 Apr 2019 16:09:21 +0200</lastBuildDate>
     
-	<atom:link href="https://eclipsefdn.github.io/openmobility.eclipse.org/technologies/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://openmobility.eclipse.org/technologies/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Eclipse SUMO</title>
-      <link>https://eclipsefdn.github.io/openmobility.eclipse.org/technologies/eclipse-sumo/</link>
+      <link>https://openmobility.eclipse.org/technologies/eclipse-sumo/</link>
       <pubDate>Tue, 16 Apr 2019 16:09:21 +0200</pubDate>
       <author>chris.guindon@eclipse-foundation.org (Christopher Guindon)</author>
-      <guid>https://eclipsefdn.github.io/openmobility.eclipse.org/technologies/eclipse-sumo/</guid>
+      <guid>https://openmobility.eclipse.org/technologies/eclipse-sumo/</guid>
       <description>Eclipse Simulation of Urban Mobility (SUMO) is a free and open traffic simulation toolsuite. SUMO allows modelling and analyzing intermodal traffic systems, including road vehicles, public transport, cargo logistics and pedestrians. Included with SUMO is a wealth of supporting tools, which handle tasks like route finding, visualization, network import and emission calculation. SUMO can be enhanced with custom models and it provides various APIs to remotely control and influence the simulation.</description>
     </item>
     

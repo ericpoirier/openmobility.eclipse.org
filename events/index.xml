@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Events on The openMobility working group will drive the evolution and broad adoption of mobility modelling and simulation technologies.</title>
-    <link>https://eclipsefdn.github.io/openmobility.eclipse.org/events/</link>
+    <link>https://openmobility.eclipse.org/events/</link>
     <description>Recent content in Events on The openMobility working group will drive the evolution and broad adoption of mobility modelling and simulation technologies.</description>
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>chris.guindon@eclipse-foundation.org (Christopher Guindon)</managingEditor>
     <webMaster>chris.guindon@eclipse-foundation.org (Christopher Guindon)</webMaster>
     <lastBuildDate>Tue, 16 Apr 2019 16:13:39 +0200</lastBuildDate>
     
-	<atom:link href="https://eclipsefdn.github.io/openmobility.eclipse.org/events/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://openmobility.eclipse.org/events/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>SUMO User Conference 2019</title>
-      <link>https://eclipsefdn.github.io/openmobility.eclipse.org/events/sumo2019/</link>
+      <link>https://openmobility.eclipse.org/events/sumo2019/</link>
       <pubDate>Mon, 13 May 2019 05:10:00 +0000</pubDate>
       <author>chris.guindon@eclipse-foundation.org (Christopher Guindon)</author>
-      <guid>https://eclipsefdn.github.io/openmobility.eclipse.org/events/sumo2019/</guid>
+      <guid>https://openmobility.eclipse.org/events/sumo2019/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;https://www.dlr.de/ts/en/Portaldata/16/Resources/veranstaltungen/SUMO-Final-Square-PNG.png&#34; width=&#34;100px&#34; alt=&#34;SUMO logo&#34; style=&#34;pointer-events:none;&#34;&gt;&lt;/p&gt;
 
 &lt;p&gt;Traffic simulations are of immense importance for researchers as well as practitioners in the field of transportation. Eclipse SUMO provides a wide range of traffic planning and simulation applications.&lt;/p&gt;</description>
@@ -25,10 +25,10 @@
     
     <item>
       <title>openMobility Working Group Meeting</title>
-      <link>https://eclipsefdn.github.io/openmobility.eclipse.org/events/meeting1/</link>
+      <link>https://openmobility.eclipse.org/events/meeting1/</link>
       <pubDate>Mon, 13 May 2019 05:10:00 +0000</pubDate>
       <author>chris.guindon@eclipse-foundation.org (Christopher Guindon)</author>
-      <guid>https://eclipsefdn.github.io/openmobility.eclipse.org/events/meeting1/</guid>
+      <guid>https://openmobility.eclipse.org/events/meeting1/</guid>
       <description>&lt;p&gt;Meeting of the openMobility Working Group during the SUMO User Conference 2019.&lt;/p&gt;</description>
     </item>
     

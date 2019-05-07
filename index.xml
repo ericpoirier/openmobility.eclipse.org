@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Home on The openMobility working group will drive the evolution and broad adoption of mobility modelling and simulation technologies.</title>
-    <link>https://eclipsefdn.github.io/openmobility.eclipse.org/</link>
+    <link>https://openmobility.eclipse.org/</link>
     <description>Recent content in Home on The openMobility working group will drive the evolution and broad adoption of mobility modelling and simulation technologies.</description>
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>chris.guindon@eclipse-foundation.org (Christopher Guindon)</managingEditor>
     <webMaster>chris.guindon@eclipse-foundation.org (Christopher Guindon)</webMaster>
     <lastBuildDate>Thu, 14 Mar 2019 15:50:25 -0400</lastBuildDate>
     
-	<atom:link href="https://eclipsefdn.github.io/openmobility.eclipse.org/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://openmobility.eclipse.org/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Foundation of the OpenMobility Working Group</title>
-      <link>https://eclipsefdn.github.io/openmobility.eclipse.org/news/announcements/2019/05/13/foundation-of-the-openmobility-working-group/</link>
+      <link>https://openmobility.eclipse.org/news/announcements/2019/05/13/foundation-of-the-openmobility-working-group/</link>
       <pubDate>Mon, 13 May 2019 05:10:00 +0000</pubDate>
       <author>chris.guindon@eclipse-foundation.org (Christopher Guindon)</author>
-      <guid>https://eclipsefdn.github.io/openmobility.eclipse.org/news/announcements/2019/05/13/foundation-of-the-openmobility-working-group/</guid>
+      <guid>https://openmobility.eclipse.org/news/announcements/2019/05/13/foundation-of-the-openmobility-working-group/</guid>
       <description>&lt;p&gt;We are glad to announce the start of our Eclipse Working Group.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>SUMO User Conference 2019</title>
-      <link>https://eclipsefdn.github.io/openmobility.eclipse.org/events/sumo2019/</link>
+      <link>https://openmobility.eclipse.org/events/sumo2019/</link>
       <pubDate>Mon, 13 May 2019 05:10:00 +0000</pubDate>
       <author>chris.guindon@eclipse-foundation.org (Christopher Guindon)</author>
-      <guid>https://eclipsefdn.github.io/openmobility.eclipse.org/events/sumo2019/</guid>
+      <guid>https://openmobility.eclipse.org/events/sumo2019/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;https://www.dlr.de/ts/en/Portaldata/16/Resources/veranstaltungen/SUMO-Final-Square-PNG.png&#34; width=&#34;100px&#34; alt=&#34;SUMO logo&#34; style=&#34;pointer-events:none;&#34;&gt;&lt;/p&gt;
 
 &lt;p&gt;Traffic simulations are of immense importance for researchers as well as practitioners in the field of transportation. Eclipse SUMO provides a wide range of traffic planning and simulation applications.&lt;/p&gt;</description>
@@ -34,28 +34,28 @@
     
     <item>
       <title>openMobility Working Group Meeting</title>
-      <link>https://eclipsefdn.github.io/openmobility.eclipse.org/events/meeting1/</link>
+      <link>https://openmobility.eclipse.org/events/meeting1/</link>
       <pubDate>Mon, 13 May 2019 05:10:00 +0000</pubDate>
       <author>chris.guindon@eclipse-foundation.org (Christopher Guindon)</author>
-      <guid>https://eclipsefdn.github.io/openmobility.eclipse.org/events/meeting1/</guid>
+      <guid>https://openmobility.eclipse.org/events/meeting1/</guid>
       <description>&lt;p&gt;Meeting of the openMobility Working Group during the SUMO User Conference 2019.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Deutsches Zentrum für Luft- und Raumfahrt e.V. (DLR)</title>
-      <link>https://eclipsefdn.github.io/openmobility.eclipse.org/members/dlr/</link>
+      <link>https://openmobility.eclipse.org/members/dlr/</link>
       <pubDate>Mon, 22 Apr 2019 16:09:45 -0400</pubDate>
       <author>chris.guindon@eclipse-foundation.org (Christopher Guindon)</author>
-      <guid>https://eclipsefdn.github.io/openmobility.eclipse.org/members/dlr/</guid>
+      <guid>https://openmobility.eclipse.org/members/dlr/</guid>
       <description>DLR is the national aeronautics and space research centre of the Federal Republic of Germany. Its extensive research and development work in aeronautics, space, energy, transport and security is integrated into national and international cooperative ventures. In addition to its own research, as Germanys space agency, DLR has been given responsibility by the federal government for the planning and implementation of the German space programme. DLR is also the umbrella organisation for the nations largest project management agency.</description>
     </item>
     
     <item>
       <title>Fraunhofer Institute for Open Communication Systems (FOKUS)</title>
-      <link>https://eclipsefdn.github.io/openmobility.eclipse.org/members/fraunhofer/</link>
+      <link>https://openmobility.eclipse.org/members/fraunhofer/</link>
       <pubDate>Mon, 22 Apr 2019 16:09:45 -0400</pubDate>
       <author>chris.guindon@eclipse-foundation.org (Christopher Guindon)</author>
-      <guid>https://eclipsefdn.github.io/openmobility.eclipse.org/members/fraunhofer/</guid>
+      <guid>https://openmobility.eclipse.org/members/fraunhofer/</guid>
       <description>Fraunhofer FOKUS provides R&amp;amp;D services for the development of seamless personalizable communication systems at all stages of the innovation process from the original innovative idea and project-related R&amp;amp;D right through to testing, prototype development and implementation.
 As a proven partner for industry, Fraunhofer FOKUS defines all its R&amp;amp;D activities in line with market and user requirements.
 Links: Visit website</description>
@@ -63,10 +63,10 @@ Links: Visit website</description>
     
     <item>
       <title>Robert Bosch GmbH</title>
-      <link>https://eclipsefdn.github.io/openmobility.eclipse.org/members/bosch/</link>
+      <link>https://openmobility.eclipse.org/members/bosch/</link>
       <pubDate>Mon, 22 Apr 2019 16:09:45 -0400</pubDate>
       <author>chris.guindon@eclipse-foundation.org (Christopher Guindon)</author>
-      <guid>https://eclipsefdn.github.io/openmobility.eclipse.org/members/bosch/</guid>
+      <guid>https://openmobility.eclipse.org/members/bosch/</guid>
       <description>The Bosch Group is a leading global supplier of technology and services. It employs roughly 402,000 associates worldwide (as of December 31, 2017). The company generated sales of 78.1 billion euros in 2017.
 Its operations are divided into four business sectors: Mobility Solutions, Industrial Technology, Consumer Goods, and Energy and Building Technology.
 As a leading IoT company, Bosch offers innovative solutions for smart homes, smart cities, connected mobility, and connected manufacturing.</description>
@@ -74,10 +74,10 @@ As a leading IoT company, Bosch offers innovative solutions for smart homes, sma
     
     <item>
       <title>Vector Informatik GmbH</title>
-      <link>https://eclipsefdn.github.io/openmobility.eclipse.org/members/vector/</link>
+      <link>https://openmobility.eclipse.org/members/vector/</link>
       <pubDate>Mon, 22 Apr 2019 16:09:45 -0400</pubDate>
       <author>chris.guindon@eclipse-foundation.org (Christopher Guindon)</author>
-      <guid>https://eclipsefdn.github.io/openmobility.eclipse.org/members/vector/</guid>
+      <guid>https://openmobility.eclipse.org/members/vector/</guid>
       <description>Vector provides tools, software components and engineering services for the networking of electronic systems in the automobile and related industries.
 The ECU development is supported with tools for the design, test, calibration and diagnostics as well as with software components and development services.
 Links: Visit website</description>
@@ -85,19 +85,19 @@ Links: Visit website</description>
     
     <item>
       <title>Eclipse SUMO</title>
-      <link>https://eclipsefdn.github.io/openmobility.eclipse.org/technologies/eclipse-sumo/</link>
+      <link>https://openmobility.eclipse.org/technologies/eclipse-sumo/</link>
       <pubDate>Tue, 16 Apr 2019 16:09:21 +0200</pubDate>
       <author>chris.guindon@eclipse-foundation.org (Christopher Guindon)</author>
-      <guid>https://eclipsefdn.github.io/openmobility.eclipse.org/technologies/eclipse-sumo/</guid>
+      <guid>https://openmobility.eclipse.org/technologies/eclipse-sumo/</guid>
       <description>Eclipse Simulation of Urban Mobility (SUMO) is a free and open traffic simulation toolsuite. SUMO allows modelling and analyzing intermodal traffic systems, including road vehicles, public transport, cargo logistics and pedestrians. Included with SUMO is a wealth of supporting tools, which handle tasks like route finding, visualization, network import and emission calculation. SUMO can be enhanced with custom models and it provides various APIs to remotely control and influence the simulation.</description>
     </item>
     
     <item>
       <title>Release of Eclipse SUMO version 1.2.0.</title>
-      <link>https://eclipsefdn.github.io/openmobility.eclipse.org/news/community-news/2019/04/16/release-of-eclipse-sumo-version-1.2.0./</link>
+      <link>https://openmobility.eclipse.org/news/community-news/2019/04/16/release-of-eclipse-sumo-version-1.2.0./</link>
       <pubDate>Tue, 16 Apr 2019 00:00:00 +0000</pubDate>
       <author>chris.guindon@eclipse-foundation.org (Christopher Guindon)</author>
-      <guid>https://eclipsefdn.github.io/openmobility.eclipse.org/news/community-news/2019/04/16/release-of-eclipse-sumo-version-1.2.0./</guid>
+      <guid>https://openmobility.eclipse.org/news/community-news/2019/04/16/release-of-eclipse-sumo-version-1.2.0./</guid>
       <description>&lt;p&gt;&lt;img src=&#34;https://sumo.dlr.de/favicon.ico&#34; width=&#34;50px&#34; alt=&#34;SUMO logo&#34; style=&#34;pointer-events:none;&#34;&gt;&lt;/p&gt;
 
 &lt;p&gt;Click on this card to see the Changelog.&lt;/p&gt;</description>
