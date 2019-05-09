@@ -18,18 +18,16 @@
       <pubDate>Mon, 13 May 2019 05:10:00 +0000</pubDate>
       <author>chris.guindon@eclipse-foundation.org (Christopher Guindon)</author>
       <guid>https://openmobility.eclipse.org/events/sumo2019/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;https://www.dlr.de/ts/en/Portaldata/16/Resources/veranstaltungen/SUMO-Final-Square-PNG.png&#34; width=&#34;100px&#34; alt=&#34;SUMO logo&#34; style=&#34;pointer-events:none;&#34;&gt;&lt;/p&gt;
-
-&lt;p&gt;Traffic simulations are of immense importance for researchers as well as practitioners in the field of transportation. Eclipse SUMO provides a wide range of traffic planning and simulation applications.&lt;/p&gt;</description>
+      <description>&lt;p&gt;This international conference abount Eclipse SUMO is intended for participants from the industry, practitioner as well as academic researchers. It aims on presenting new and unique results in the field of mobility simulation and modelling using openly available tools and data. We expect a large variety of research topics and usage approaches.&lt;/p&gt;</description>
     </item>
     
     <item>
-      <title>openMobility Working Group Meeting</title>
+      <title>openMobility Working Group Kick-Off</title>
       <link>https://openmobility.eclipse.org/events/meeting1/</link>
       <pubDate>Mon, 13 May 2019 05:10:00 +0000</pubDate>
       <author>chris.guindon@eclipse-foundation.org (Christopher Guindon)</author>
       <guid>https://openmobility.eclipse.org/events/meeting1/</guid>
-      <description>&lt;p&gt;Meeting of the openMobility Working Group during the SUMO User Conference 2019.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Kick-Off meeting for the openMobility Working Group during the SUMO User Conference 2019.&lt;/p&gt;</description>
     </item>
     
   </channel>
