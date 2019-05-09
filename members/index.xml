@@ -13,24 +13,6 @@
     
     
     <item>
-      <title>Deutsches Zentrum für Luft- und Raumfahrt e.V. (DLR)</title>
-      <link>https://openmobility.eclipse.org/members/dlr/</link>
-      <pubDate>Mon, 22 Apr 2019 16:09:45 -0400</pubDate>
-      <author>chris.guindon@eclipse-foundation.org (Christopher Guindon)</author>
-      <guid>https://openmobility.eclipse.org/members/dlr/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;http://openmobility.eclipse.org/images/members/dlr-logo.svg&#34; width=&#34;200px&#34; alt=&#34;DLR logo&#34; style=&#34;pointer-events:none;&#34;&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Fraunhofer Institute for Open Communication Systems (FOKUS)</title>
-      <link>https://openmobility.eclipse.org/members/fraunhofer/</link>
-      <pubDate>Mon, 22 Apr 2019 16:09:45 -0400</pubDate>
-      <author>chris.guindon@eclipse-foundation.org (Christopher Guindon)</author>
-      <guid>https://openmobility.eclipse.org/members/fraunhofer/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;http://openmobility.eclipse.org/images/members/fraunhofer-logo.png&#34; width=&#34;200px&#34; alt=&#34;FRAUNHOFER logo&#34; style=&#34;pointer-events:none;&#34;&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
       <title>Robert Bosch GmbH</title>
       <link>https://openmobility.eclipse.org/members/bosch/</link>
       <pubDate>Mon, 22 Apr 2019 16:09:45 -0400</pubDate>
@@ -40,9 +22,27 @@
     </item>
     
     <item>
+      <title>Deutsches Zentrum für Luft- und Raumfahrt e.V. (DLR)</title>
+      <link>https://openmobility.eclipse.org/members/dlr/</link>
+      <pubDate>Sun, 21 Apr 2019 16:09:45 -0400</pubDate>
+      <author>chris.guindon@eclipse-foundation.org (Christopher Guindon)</author>
+      <guid>https://openmobility.eclipse.org/members/dlr/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://openmobility.eclipse.org/images/members/dlr-logo.svg&#34; width=&#34;200px&#34; alt=&#34;DLR logo&#34; style=&#34;pointer-events:none;&#34;&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Fraunhofer Institute for Open Communication Systems (FOKUS)</title>
+      <link>https://openmobility.eclipse.org/members/fraunhofer/</link>
+      <pubDate>Sat, 20 Apr 2019 16:09:45 -0400</pubDate>
+      <author>chris.guindon@eclipse-foundation.org (Christopher Guindon)</author>
+      <guid>https://openmobility.eclipse.org/members/fraunhofer/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://openmobility.eclipse.org/images/members/fraunhofer-logo.png&#34; width=&#34;200px&#34; alt=&#34;FRAUNHOFER logo&#34; style=&#34;pointer-events:none;&#34;&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>Vector Informatik GmbH</title>
       <link>https://openmobility.eclipse.org/members/vector/</link>
-      <pubDate>Mon, 22 Apr 2019 16:09:45 -0400</pubDate>
+      <pubDate>Fri, 19 Apr 2019 16:09:45 -0400</pubDate>
       <author>chris.guindon@eclipse-foundation.org (Christopher Guindon)</author>
       <guid>https://openmobility.eclipse.org/members/vector/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;http://openmobility.eclipse.org/images/members/vector-logo.svg&#34; width=&#34;200px&#34; alt=&#34;VECTOR logo&#34; style=&#34;pointer-events:none;&#34;&gt;&lt;/p&gt;</description>
