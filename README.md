@@ -13,7 +13,7 @@ The OpenMobility working group will drive the evolution and broad adoption of mo
 Install dependencies, build assets and start a webserver:
 
 ```bash
-npm install && npm run dev && hugo server --disableFastRender --buildFuture
+yarn && hugo server --disableFastRender --buildFuture
 ```
 
 ## Contributing
